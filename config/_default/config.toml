@@ -9,12 +9,13 @@ hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
 summaryLength = 70 # The length of a post description on a list page.
 buildFuture = true # if true, we can use future date for talks page
 
-copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
+copyright = "©{year}, Minden jog fenntartva" # copyright symbol: $copy; Jelenlegi év: {year}
 timeout = 10000
 enableEmoji = true
-paginate = 13 # Number of items per page in paginated lists.
+paginate = 15 # Number of items per page in paginated lists.
 rssLimit = 100
 
+enableBio = false
 enableGitInfo = false # When true, the modified date will appear on a summary and single page. Since GitHub info needs to be fetched, this feature will slow down to build depending on a page number you have
 googleAnalytics = ""
 

@@ -38,7 +38,7 @@ enableBreadcrumb = true # breadcrumb for list, single page
 enableSearch = true # site search with Fuse
 enableSearchHighlight = true # when true, search keyword will be highlighted
 enableGoToTop = true # scroll to top
-enableWhoami = true # at the end of single page
+enableWhoami = false # at the end of single page
 summaryShape = "classic" # card, classic, compact
 archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 archivePaginate = 13 # items per page
@@ -57,8 +57,8 @@ organization = "Hugo"
 link = "https://github.com/zzossig/hugo-theme-zzo"
 
 # sidebar
-enableBio = true # in home page sidebar
-enableBioImage = true # in home page sidebar
+enableBio = false # in home page sidebar
+enableBioImage = false # in home page sidebar
 enableSidebar = true # Set to false to create the full width of the content.
 enableSidebarTags = true # if you want to use tags.
 enableSidebarSeries = true
@@ -76,10 +76,10 @@ tocLevels = ["h2", "h3", "h4"] # minimum h2, maximum h4 in your article
 enableSidebarPostsByOrder = false # another lists in the sidebar
 
 # footer
-showPoweredBy = true # show footer text: Powered by Hugo and Zzo theme
+showPoweredBy = false # show footer text: Powered by Hugo and Zzo theme
 showFeedLinks = true # RSS Feed 
-showSocialLinks = true # email, facebook, twitter ...
-enableLangChange = true # show button at bottom left of footer.
+showSocialLinks = false # email, facebook, twitter ...
+enableLangChange = false # show button at bottom left of footer.
 
 # service
 googleTagManager = "" # GTM-XXXXXX

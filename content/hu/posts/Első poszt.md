@@ -3,6 +3,7 @@ title: "COI és COD"
 date: 2019-03-26T08:47:11+01:00
 description: Mindent a COI és COD-ról.
 draft: false
+meta_image: images/a.webp
 ---
 
 # COI és COD a franciában
