@@ -1,0 +1,6 @@
+[hu]
+  title = "teszt"
+  languageName = "magyar"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/hu"
