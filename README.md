@@ -1,2 +1,0 @@
-# francia
-FRANCIA ÓRA WEBOLDAL EAZY
