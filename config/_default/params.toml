@@ -1,10 +1,10 @@
 logoText = "FRANCIA" # Logo text that appears in the site navigation bar.
 logoType = "short" # long, short -> short: squre shape includes logo text, long: rectangle shape not includes logo text
 logo = true # Logo that appears in the site navigation bar.
-description = "The Zzo theme for Hugo example site." # for SEO
+description = "Francia tanulás mesterfokon." # for SEO
 custom_css = [] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
 custom_js = [] # custom_js = ["js/custom.js"] and then make file at root/assets/js/custom.js
-useFaviconGenerator = false # https://www.favicon-generator.org/
+useFaviconGenerator = true # https://www.favicon-generator.org/
 languagedir = "ltr" # ltr / rtl
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"] # select options for site color theme
@@ -14,13 +14,13 @@ notAllowedTypesInArchive = ["about", "talks", "showcase"] # not allowed page typ
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 enablePinnedPosts = true # show pinned posts first in the main view
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
+viewportSize = "wide" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # appbar
-enableAppbarSearchIcon = false
+enableAppbarSearchIcon = true
 enableAppbarLangIcon = false
 
 # header
@@ -34,7 +34,7 @@ showMobileMenuTerms = ["tags", "categories", "series"]
 enableThemeChange = true # site color theme
 
 # body
-enableBreadcrumb = true # breadcrumb for list, single page
+enableBreadcrumb = false # breadcrumb for list, single page
 enableSearch = true # site search with Fuse
 enableSearchHighlight = true # when true, search keyword will be highlighted
 enableGoToTop = true # scroll to top
@@ -68,7 +68,7 @@ enableListSidebarTitles = true
 enableToc = true # single page table of contents, you can replace this param to toc(toc = true)
 hideToc = false # Hide or Show toc
 tocPosition = "inner" # inner, outer
-tocFolding = false
+tocFolding = true
 enableTocSwitch = true # single page table of contents visibility switch
 itemsPerCategory = 5 # maximum number of posts shown in the sidebar.
 sidebarPosition = "right" # bio, profile component layout position

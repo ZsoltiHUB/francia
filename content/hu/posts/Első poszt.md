@@ -1,9 +1,10 @@
 ---
 title: "COI és COD"
-date: 2019-03-26T08:47:11+01:00
+date: 2023-10-26
 description: Mindent a COI és COD-ról.
 draft: false
 meta_image: images/a.webp
+url: /coicod/
 ---
 
 # COI és COD a franciában
@@ -59,3 +60,4 @@ A COI és a COD megkülönböztetésére a következő módszerek alkalmazhatók
     * Je vois **le chien** courir. (Látom a kutyát futni.)
     * J'aime **la musique** classique. (Szeretem a klasszikus zenét.)
     * Je mange **des pommes** vertes. (Zöld almát eszem.)
+{{< img src="/images/a.png" title="Francia sztereotípia." caption="" alt="bruh nem tölt be a kép most mi legyen" width="700px" position="center" >}}
