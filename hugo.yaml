@@ -1,0 +1,73 @@
+baseURL: 
+languageCode: hu
+title: Francia teszt
+theme: "PaperMod"
+paginate: 10
+defaultContentLanguage: hu
+
+menu:
+  main: 
+    - identifier: kereses
+      name: Keresés
+      url: /keress/
+      weight: 10
+    - identifier: cimkek
+      name: Címkék
+      url: /cimkek/
+      weight: 20
+    - identifier: leckek
+      name: Leckék
+      url: /leckek/
+      weight: 1
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+
+params:
+    # defaultTheme: light
+    # defaultTheme: dark
+    defaultTheme: auto # to switch between dark or light according to browser theme
+    homeInfoParams:
+        Title: Sziasztok!
+        Content: Itt mindent megtaláltok...
+    description: "ExampleSite description"
+    keywords: [Francia, nyelv, bálint márton]
+    author: Me
+    # author: ["Me", "You"] # multiple authors
+    images: ["<link or path of image for opengraph, twitter-cards>"]
+    DateFormat: "2006, January 2"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: false
+    ShowWordCount: true
+    ShowRssButtonInSectionTermList: true
+    UseHugoToc: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+languages:
+    hu:
+        languageName: "hu"
+        languageAltTitle: Magyar
+        weight: 0
+    fr:
+        languageName: "fr"
+        languageAltTitle: Francais
+        contentDir: content/posts
