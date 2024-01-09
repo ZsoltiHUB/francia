@@ -14,7 +14,6 @@ draft: false
 hidemeta: false
 comments: false
 description: "TÉnyleg ilyen jó?"
-canonicalURL: ""
 disableHLJS: false # to disable highlightjs
 disableShare: true
 disableHLJS: false
@@ -27,9 +26,6 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "" # image path/url
-    alt: "" # alt text
-    caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
