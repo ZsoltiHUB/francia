@@ -1,4 +1,4 @@
-baseURL: capyblappy.tk
+baseURL: 
 languageCode: hu
 title: Francia teszt
 theme: "PaperMod"
@@ -37,7 +37,7 @@ params:
     homeInfoParams:
         Title: Sziasztok!
         Content: Itt mindent megtaláltok...
-    description: "ExampleSite description"
+    description: "Legjobb oldal forever"
     keywords: [Francia, nyelv, bálint márton]
     author: Me
     # author: ["Me", "You"] # multiple authors
