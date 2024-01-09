@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Francia teszt</title>
+    <link>capyblappy.tk/fr/tags/</link>
+    <description>Recent content in Tags on Francia teszt</description>
+    <image>
+      <title>Francia teszt</title>
+      <url>capyblappy.tk/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>capyblappy.tk/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 29 Nov 2023 18:02:17 +0100</lastBuildDate>
+    <atom:link href="capyblappy.tk/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Szórakozás</title>
+      <link>capyblappy.tk/fr/tags/sz%C3%B3rakoz%C3%A1s/</link>
+      <pubDate>Wed, 29 Nov 2023 18:02:17 +0100</pubDate>
+      <guid>capyblappy.tk/fr/tags/sz%C3%B3rakoz%C3%A1s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>leckék</title>
+      <link>capyblappy.tk/fr/tags/leck%C3%A9k/</link>
+      <pubDate>Fri, 24 Nov 2023 14:41:46 +0100</pubDate>
+      <guid>capyblappy.tk/fr/tags/leck%C3%A9k/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
