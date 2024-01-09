@@ -70,4 +70,3 @@ languages:
     fr:
         languageName: "fr"
         languageAltTitle: Francais
-        contentDir: content/posts
