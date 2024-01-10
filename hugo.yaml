@@ -73,7 +73,6 @@ languages:
         languageName: "hu"
         languageAltTitle: Magyar
         weight: 0
-        contentDir: /content/poszt
     fr:
         languageName: "fr"
         languageAltTitle: Francais

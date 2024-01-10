@@ -1,5 +1,5 @@
 ---
-title: 'Uram isten kegyelmezz végre működik a magyar nyelv'
+title: 'Végre működik a magyar nyelv'
 date: 2023-11-29T17:53:57+01:00
 draft: false
 # weight: 1
@@ -27,7 +27,8 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-# XD srácok najó működik
+## jahogy mondjuk francia weboldalra minek magyar nyelv
+# XD srácok najó működik 
 csak végig buta voltam na sebaj 
 már csak rá kéne jönni, hogyan kell képet berakni és boldog ember lennék.
 
