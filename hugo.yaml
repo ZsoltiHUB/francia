@@ -20,6 +20,12 @@ menu:
       url: /leckek/
       weight: 1
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -67,6 +73,8 @@ languages:
         languageName: "hu"
         languageAltTitle: Magyar
         weight: 0
+        contentDir: /content/poszt
     fr:
         languageName: "fr"
         languageAltTitle: Francais
+        contentDir: /content/poszt
