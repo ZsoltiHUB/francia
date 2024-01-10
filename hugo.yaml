@@ -20,12 +20,6 @@ menu:
       url: /leckek/
       weight: 1
 
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
