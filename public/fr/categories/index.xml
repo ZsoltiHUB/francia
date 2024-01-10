@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Francia teszt</title>
+    <link>/fr/categories/</link>
+    <description>Recent content in Categories on Francia teszt</description>
+    <image>
+      <title>Francia teszt</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <atom:link href="/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
